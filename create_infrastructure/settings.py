@@ -1,5 +1,0 @@
-login = ''
-passw = ''
-az_1 = ''
-az_2 = ''
-region = '' 
